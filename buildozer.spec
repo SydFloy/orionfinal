@@ -4,7 +4,7 @@
 title = ORION
 
 # (str) Package name
-package.name = OR6
+package.name = OR
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.novfensec
