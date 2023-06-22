@@ -4,7 +4,7 @@
 title = ORION
 
 # (str) Package name
-package.name = OR7
+package.name = OR6
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.novfensec
@@ -81,7 +81,7 @@ fullscreen = 0
 # red, blue, green, black, white, gray, cyan, magenta, yellow, lightgray,
 # darkgray, grey, lightgrey, darkgrey, aqua, fuchsia, lime, maroon, navy,
 # olive, purple, silver, teal.
-android.presplash_color = white
+android.presplash_color = lightgrey
 
 # (string) Presplash animation using Lottie format.
 # see https://lottiefiles.com/ for examples and https://airbnb.design/lottie/
@@ -106,7 +106,7 @@ android.permissions = INTERNET
 #android.minapi = 21
 
 # (int) Android SDK version to use
-android.sdk = 24
+#android.sdk = 20
 
 # (str) Android NDK version to use
 #android.ndk = 23b
